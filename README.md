@@ -9,6 +9,7 @@
 - 통학 및 통근 인구를 위한 천안시 대중교통 개선 방안을 제안
 ## 분석과정
 <img width="879" alt="image" src="https://github.com/user-attachments/assets/21e45e0e-18a0-4994-94fa-a4cdc8adc95d">
+
 ## 분석결과
 <img width="875" alt="image" src="https://github.com/user-attachments/assets/7411385a-b1c6-498f-b422-781edf442838">
 <img width="877" alt="image" src="https://github.com/user-attachments/assets/04447df0-5b23-44ed-af86-e89a49bab0f6">
